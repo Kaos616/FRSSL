@@ -1,4 +1,4 @@
 # FRSSL
 Face Recognition Security System for GNU/Linux
 
-### Welcome to my first IA proyect
+### Welcome to my first IA project
